@@ -1,9 +1,10 @@
-### Sul sul! 👋
+## Sul sul! 👋
 
 Welcome to my corner of the universe. I am a full-time tinkerer and a part-time artist. I am always looking for new ways to challenge myself, so you can find current projects I'm working on here. I am also really passionate about sustainability (in every aspect of the word). I like to create things that free up time and resources. More than anything, I love to work on projects with a heavy focus on empowerment. If you vibe with this, let's collaborate!
 
 - 🔭 I’m currently working on my portfolio website and a resource management app for the Sims
-- 🌱 I’m currently learning system design and React
+- 🌱 I’m currently learning system design, React, and French
+- ⚡ I'm a classically trained violist
 
 <!--
 **wasobi/wasobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
