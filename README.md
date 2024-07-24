@@ -1,8 +1,8 @@
 ## Sul sul! 👋
 
-I am a full-time tinkerer, part-time artist, a bonafide home cook, and an avid gamer. I am always looking for new ways to challenge myself, so you can find current projects I'm working on here. 
+I am a full-time tinkerer, part-time artist, bonafide home cook, and an avid gamer. I am always looking for new ways to challenge myself, so you can find current projects I'm working on here. 
 
-I like to create things to empower people so it can free up time and resources. If you vibe with this, we should chat about collaborating!
+I like to create things that empower people, freeing up time and resources. If you vibe with this, we should chat about collaborating!
 
 - 🔭 I’m currently working on my portfolio website and a resource management app for the Sims
 - 🌱 I’m currently learning system design, React, and French
