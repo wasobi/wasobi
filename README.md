@@ -4,9 +4,9 @@ I am a full-time tinkerer, part-time artist, bonafide home cook, and an avid gam
 
 I like to create things that empower people, freeing up time and resources. If you vibe with this, we should chat about collaborating!
 
-- 🔭 I’m currently working on my portfolio website and a resource management app for the Sims
+- 🔭 I’m currently working on my portfolio website, a Python handbook, and a mod management app for the Sims
 - 🌱 I’m currently learning system design, React, and French
-- ⚡ I'm a classically trained violist
+- ⚡ Fun fact: I used to perform in an improv group
 
 <!--
 **wasobi/wasobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
